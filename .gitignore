@@ -1,0 +1,10 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+output/
+
+# IDE files
+.vscode/
+*.dev
+*.cbp
